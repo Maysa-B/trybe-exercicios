@@ -1,0 +1,8 @@
+Internet
+Unix
+Bash
+Html
+CSS
+C++
+SoftSkills
+Git
