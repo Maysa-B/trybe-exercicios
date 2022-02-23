@@ -12,8 +12,8 @@ Contém todas as atividades desenvolvidas por **_[Maysa Bonfante Salvalaio](http
 - [X] 1.4 - Unix & Bash - Parte 2
 
 ##### Bloco 2: Git, GitHub e Internet
-- [ ] 2.1 - Git & GitHub  - O que é e para que serve
-- [ ] 2.2 - Git & GitHub - Entendendo os comandos
+- [X] 2.1 - Git & GitHub  - O que é e para que serve
+- [X] 2.2 - Git & GitHub - Entendendo os comandos
 - [ ] 2.3 - Internet - Entendendo como ela funciona
 
 ##### Bloco 3: Introdução à HTML e CSS
