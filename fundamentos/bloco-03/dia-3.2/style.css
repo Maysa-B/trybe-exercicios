@@ -1,0 +1,22 @@
+
+        h1 {font-size: 65px;
+        color: orangered;
+        font-family: sans-serif;
+        font-weight: 200;
+        font-style: oblique;
+        text-align: center;
+        font-family: cursive;}
+        ul{background-color: rosybrown;
+        text-align: center;}
+        p {font-weight: 600;
+        font-size: 3em;
+        font-style: italic;}
+        body {font-size: 16px;
+        line-height: 25px;
+        text-align: justify;
+        background-color: darksalmon;}
+        .new-color {background-color: lightcoral;}
+        #amarelo {background-color: yellow;}
+        #red {background-color: red;}
+        #marrom {background-color: brown;}
+
