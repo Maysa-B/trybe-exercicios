@@ -14,11 +14,11 @@ Contém todas as atividades desenvolvidas por **_[Maysa Bonfante Salvalaio](http
 ##### Bloco 2: Git, GitHub e Internet
 - [X] 2.1 - Git & GitHub  - O que é e para que serve
 - [X] 2.2 - Git & GitHub - Entendendo os comandos
-- [ ] 2.3 - Internet - Entendendo como ela funciona
+- [X] 2.3 - Internet - Entendendo como ela funciona
 
 ##### Bloco 3: Introdução à HTML e CSS
-- [ ] 3.1 - Introdução - HTML & CSS
-- [ ] 3.1 - HTML & CSS - Estruturas de página
+- [X] 3.1 - Introdução - HTML & CSS
+- [X] 3.1 - HTML & CSS - Estruturas de página
 - [ ] 3.2 - HTML & CSS - Primeiros passos em CSS
 - [ ] 3.3 - HTML & CSS - Seletores e posicionamento
 - [ ] 3.4 - HTML Semântico
