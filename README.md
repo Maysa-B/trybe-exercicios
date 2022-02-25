@@ -19,8 +19,8 @@ Contém todas as atividades desenvolvidas por **_[Maysa Bonfante Salvalaio](http
 ##### Bloco 3: Introdução à HTML e CSS
 - [X] 3.1 - Introdução - HTML & CSS
 - [X] 3.1 - HTML & CSS - Estruturas de página
-- [ ] 3.2 - HTML & CSS - Primeiros passos em CSS
-- [ ] 3.3 - HTML & CSS - Seletores e posicionamento
+- [X] 3.2 - HTML & CSS - Primeiros passos em CSS
+- [X] 3.3 - HTML & CSS - Seletores e posicionamento
 - [ ] 3.4 - HTML Semântico
 - [ ] 3.5 - Projeto - Lessons Learned
 
