@@ -1,4 +1,4 @@
-# Exercícios de aula - dia 4.1
+# Exercícios de aula - dia 4.2
 
 ## Arrays
 #### Exercício 1
