@@ -1,4 +1,4 @@
-# Exercícios - 4.4
+# Exercícios - 4.2
 
 Leia atentamente os enunciados e faça o que se pede! Iremos utilizar esse array para realizar os exercícios do 1 ao 7:
 
