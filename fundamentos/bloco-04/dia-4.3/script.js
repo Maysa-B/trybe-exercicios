@@ -45,7 +45,7 @@ for (let index = 0; index <= 50; index += 1) {
     console.log ('Testando: ' + index)
     let primo = true;
 
-    for (let index2 = 1; index2 < index; index2 += 1) {
+    for (let index2 = 2; index2 < index; index2 += 1) {
         if (index % index2 === 0) {
             primo = false;
         }
@@ -53,12 +53,24 @@ for (let index = 0; index <= 50; index += 1) {
 
     if (primo === true){
         primos.push(index);
-    }
-
-    if (index > maiorPrimo) {
         maiorPrimo = index;
     }
 }
 
 console.log (primos);
 console.log (maiorPrimo);
+
+
+// bônus
+
+// let n = 4;
+
+// for (let index = 0; index < n; index += 1) {
+//     console.log ('*');
+
+//     for (let index2 = 0; index2 < n; index2+= 1) {
+//         console.log ('*' * n);
+//     }
+// }
+
+ 
