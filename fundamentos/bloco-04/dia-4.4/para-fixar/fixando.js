@@ -34,60 +34,70 @@ for (let index in car) {
 
 // exercícios do dia 4.1 refeitos em forma de função
 
-function contas(a,b) {
-    console.log(a + b); //adição
-    console.log(a - b); //subtração
-    console.log(a * b); //multiplicação
-    console.log(a / b); //divisão
-    console.log(a % b); //módulo
+function adicao (a,b) {
+   return (a + b);
+}
+function subtracao (a,b) {
+    return (a - b);
+}
+function multiplicacao (a,b) {
+    return (a * b);
+}
+function divisao (a,b) {
+    return (a / b);
+}
+function modulo (a,b) {
+    return (a % b);
 }
 
-contas (10, 5);
+console.log (adicao (10,5));
+console.log (subtracao (10,5));
+console.log (multiplicacao (10,5));
+console.log (divisao (10,5));
+console.log (modulo (10,5));
 
 function maiorDeDois (a,b) {
     if (a > b) {
-        console.log('O maior número é: ' + a);
+        return ('O maior número é: ' + a);
     } else {
-        console.log('O maior número é: ' + b);
+        return ('O maior número é: ' + b);
     }
 }
 
-maiorDeDois (10, 5);
+console.log (maiorDeDois (10, 5));
 
 function maiorDeTres (a,b,c) {
     if (a > b && a > c) {
-        console.log('O maior número é: ' + a);
+        return ('O maior número é: ' + a);
     } else if (c > b && c > a) {
-        console.log('O maior número é: ' + c);
+        return ('O maior número é: ' + c);
     } else {
-        console.log('O maior número é: ' + b);
+        return ('O maior número é: ' + b);
     }
 }
 
-maiorDeTres (15, 14, 18);
+console.log (maiorDeTres (15, 14, 18));
 
 function npz (a) {
     if (a > 0) {
-        console.log('positive');
+        return ('positive');
     } else if (a < 0) {
-        console.log('negative');
+        return ('negative');
     } else {
-        console.log('zero');
+        return ('zero');
     }
 }
 
-npz (-9);
+console.log (npz (-9));
 
 function eUmTriangulo (a,b,c) {
     if (a + b + c == 180) {
-        console.log('true');
+        return ('true');
+    } else if (a < 0 || b < 0 || c < 0) {
+        return('Algum ângulo é inválido')
     } else {
-        console.log(false);
-    }
-    
-    if (a < 0 || b < 0 || c < 0) {
-        console.log('Algum ângulo é inválido')
+        return (false);
     }
 }
 
-eUmTriangulo (45, 45, 90);
+console.log (eUmTriangulo (45, 45, 90));
