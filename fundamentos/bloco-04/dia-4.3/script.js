@@ -59,18 +59,3 @@ for (let index = 0; index <= 50; index += 1) {
 
 console.log (primos);
 console.log (maiorPrimo);
-
-
-// bônus
-
-// let n = 4;
-
-// for (let index = 0; index < n; index += 1) {
-//     console.log ('*');
-
-//     for (let index2 = 0; index2 < n; index2+= 1) {
-//         console.log ('*' * n);
-//     }
-// }
-
- 
