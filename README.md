@@ -26,13 +26,13 @@ Contém todas as atividades desenvolvidas por **_[Maysa Bonfante Salvalaio](http
 
 ##### Bloco 4: Introdução à JavaScript e Lógica de Programação
 - [X] 4.1 - JavaScript - Primeiros passos
-- [ ] 4.2 - JavaScript - Array e loop For
-- [ ] 4.3 - JavaScript - Lógica de Programação e Algoritmos
-- [ ] 4.4 - JavaScript - Objetos e funções
-- [ ] 4.5 - Projeto - Playground Functions
+- [X] 4.2 - JavaScript - Array e loop For
+- [X] 4.3 - JavaScript - Lógica de Programação e Algoritmos
+- [X] 4.4 - JavaScript - Objetos e funções
+- [X] 4.5 - Projeto - Playground Functions
 
 ##### Bloco 5: JavaScript: DOM, Eventos e Web Storage
-- [ ] 5.1 - JavaScript - DOM e seletores
+- [X] 5.1 - JavaScript - DOM e seletores
 - [ ] 5.2 - JavaScript - Trabalhando com elementos
 - [ ] 5.3 - JavaScript - Eventos
 - [ ] 5.4 - JavaScript - Web Storage
