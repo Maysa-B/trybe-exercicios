@@ -2,8 +2,17 @@
 Contém todas as atividades desenvolvidas por **_[Maysa Bonfante Salvalaio](https://www.linkedin.com/in/maysa-salvalaio-161a2815a/)_** durante minha tragetória na **_[Trybe](https://www.betrybe.com/)_**. :rocket:
 
 >"O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais."
+>
+<div> <img align='center' src='https://camo.githubusercontent.com/2e7ca1342d9076ca9e255c10007af79da986ed12439d89a30d79624f1d873c89/68747470733a2f2f692e696d6775722e636f6d2f675768567a69622e706e67' alt='minha capa'> </div>
 
-## Fundamentos do Desenvolvimento Web :hourglass_flowing_sand:
+## Organização do repositório
+O curso da Trybe é dividido em 4 grandes blocos (<a href='#fundamentos'>Fundamentos do desenvolvimento Web</a>, <a href='#front'>Desenvolvimento Front-end</a>, <a href='#back'>Desenvolvimento Back-end</a> e <a href='#ciencia-computacao'>Ciência da Computação)</a>, dessa forma, o repositório acompanha essa separação. Possuindo pastas para cada Bloco e suas respectivas divisões.
+
+<div id='fundamentos'></div> 
+
+## Fundamentos do Desenvolvimento Web  
+
+<aside style='display: inline-block'><img src='https://i.imgur.com/K1473L0.png' align='right' width='200px'></aside>
 
 ##### Bloco 1: Unix, Bash e Shell Script
 - [X] 1.3 - Fundamentos do Desenvolvimento Web
@@ -33,8 +42,8 @@ Contém todas as atividades desenvolvidas por **_[Maysa Bonfante Salvalaio](http
 
 ##### Bloco 5: JavaScript: DOM, Eventos e Web Storage
 - [X] 5.1 - JavaScript - DOM e seletores
-- [ ] 5.2 - JavaScript - Trabalhando com elementos
-- [ ] 5.3 - JavaScript - Eventos
+- [X] 5.2 - JavaScript - Trabalhando com elementos
+- [X] 5.3 - JavaScript - Eventos
 - [ ] 5.4 - JavaScript - Web Storage
 - [ ] 5.5 - Fundamentos - JavaScript - Projetos
 - [ ] 5.5 - Projeto - Arte com Pixels
@@ -75,6 +84,8 @@ Contém todas as atividades desenvolvidas por **_[Maysa Bonfante Salvalaio](http
 - [ ] 10.2 - Jest - Testes Assíncronos
 - [ ] 10.3 - Jest - Simulando comportamentos
 - [ ] 10.4 - Projeto - Jest Assíncrono e Mocking
+
+<div id='front'></div>
 
 ## Desenvolvimento Front-end :hourglass_flowing_sand:
 
@@ -124,6 +135,8 @@ Contém todas as atividades desenvolvidas por **_[Maysa Bonfante Salvalaio](http
 
 ##### Bloco 19: Projeto App de Receitas
 - [ ] 19.1 - Projeto - App de Receitas
+
+<div id='back'></div>
 
 ## Desenvolvimento Back-end :hourglass_flowing_sand:
 
@@ -209,6 +222,8 @@ Contém todas as atividades desenvolvidas por **_[Maysa Bonfante Salvalaio](http
 ##### Bloco 32: Projeto Trybeer II
 - [ ] 32.1 - Projeto - Trybeer v2
 
+<div id='ciencia-computacao'></div>
+
 ## Ciência da Computação :hourglass_flowing_sand:
 
 ##### Bloco 33: Arquitetura de Computadores e Redes
@@ -248,3 +263,4 @@ Contém todas as atividades desenvolvidas por **_[Maysa Bonfante Salvalaio](http
 - [ ] 38.2 - Deque
 - [ ] 38.3 - Pilhas
 - [ ] 38.4 - Projeto - TING - Trybe Is Not Google
+
