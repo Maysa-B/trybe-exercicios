@@ -1,0 +1,119 @@
+main {
+    margin: 5%;
+}
+
+header {
+    background-color: lightpink;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    left: 0;
+    text-align: center;
+}
+
+header  a{
+    text-decoration: none;
+    color: darkred;
+    margin: 30px;
+}
+
+header  a:hover{
+    font-weight: bold;
+}
+
+h2 {
+    text-align: center;
+}
+
+#text {
+    text-align: justify;
+}
+
+.content-extra {
+    display: flex;
+    align-items: center; 
+    flex-direction: row;
+    justify-content: center;   
+}
+
+#me {
+    width: 40%;
+    background-color: violet;
+    height: 400px;
+    border-radius: 15px;
+    color: purple;
+    margin: 10px;
+}
+
+#personalise {
+    margin: 10px;
+    text-align: center;
+    width: 40%;
+    border-radius: 15px;
+    background-color: lightgreen;
+    color: darkgreen;
+    height: 400px;
+}
+
+#personalise h2 {
+    padding-top: 15px;
+}
+
+#plus-less {
+    display: inline-flex;
+    align-items: center;
+}
+
+#plus-less button{
+    width: 25px;
+    height: 25px;
+    background-color: darkgreen;
+    color: lightgreen;
+    margin: 15px;
+    border-radius: 15%;
+}
+
+#change-fontfamily button{
+    width: 150px;
+    height: 25px;
+    background-color: darkgreen;
+    color: lightgreen;
+    margin: 15px;
+    border-radius: 15px;
+}
+
+#change-backgroundcolor {
+    display: inline-flex;
+    align-items: center;
+}
+
+#change-backgroundcolor input {
+    margin: 15px;
+}
+
+#change-backgroundcolor button{
+    width: 40px;
+    height: 25px;
+    background-color: darkgreen;
+    color: lightgreen;
+    margin: 15px;
+    border-radius: 15%;
+}
+
+#change-color {
+    display: inline-flex;
+    align-items: center;
+}
+
+#change-color input {
+    margin: 15px;
+}
+
+#change-color button{
+    width: 40px;
+    height: 25px;
+    background-color: darkgreen;
+    color: lightgreen;
+    margin: 15px;
+    border-radius: 15%;
+}
