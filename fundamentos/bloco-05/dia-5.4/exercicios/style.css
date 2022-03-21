@@ -1,3 +1,11 @@
+body {
+    background-color: antiquewhite;
+    color: black;
+    font-size: 15px;
+    line-height: 18px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
 main {
     margin: 5%;
 }
@@ -37,12 +45,46 @@ h2 {
 }
 
 #me {
+    text-align: center;
     width: 40%;
     background-color: violet;
     height: 400px;
     border-radius: 15px;
     color: purple;
     margin: 10px;
+}
+
+#me h2 {
+    padding-top: 15px;
+}
+
+#trybe {
+    text-decoration: none;
+    color: purple;
+}
+
+#trybe:hover {
+    text-decoration: underline;
+}
+
+li {
+    list-style-type: none;
+  }
+
+#me img {
+    float: right;
+    width: 200px;
+    margin-left: 270px;
+}
+
+.list {
+    text-decoration: none;
+    color: purple;
+    font-weight: bold;
+}
+
+.list:hover {
+    text-decoration: underline;
 }
 
 #personalise {
