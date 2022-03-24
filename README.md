@@ -44,16 +44,16 @@ O curso da Trybe é dividido em 4 grandes blocos (<a href='#fundamentos'>Fundame
 - [X] 5.1 - JavaScript - DOM e seletores
 - [X] 5.2 - JavaScript - Trabalhando com elementos
 - [X] 5.3 - JavaScript - Eventos
-- [ ] 5.4 - JavaScript - Web Storage
-- [ ] 5.5 - Fundamentos - JavaScript - Projetos
-- [ ] 5.5 - Projeto - Arte com Pixels
-- [ ] 5.6 - Projeto - Lista de tarefas
-- [ ] 5.7 - (Bônus) Projeto - Meme Generator
-- [ ] 5.7 - (Bônus) Projeto - Adivinhe a Cor
-- [ ] 5.7 - (Bônus) Projeto - Carta Misteriosa
+- [X] 5.4 - JavaScript - Web Storage
+- [X] 5.5 - Fundamentos - JavaScript - Projetos
+- [X] 5.5 - Projeto - Arte com Pixels
+- [X] 5.6 - Projeto - Lista de tarefas
+- [X] 5.7 - (Bônus) Projeto - Meme Generator
+- [X] 5.7 - (Bônus) Projeto - Adivinhe a Cor
+- [X] 5.7 - (Bônus) Projeto - Carta Misteriosa
 
 ##### Bloco 6: HTML e CSS: Forms, Flexbox e Responsivo
-- [ ] 6.1 - HTML & CSS - Forms
+- [X] 6.1 - HTML & CSS - Forms
 - [ ] 6.2 - Bibliotecas JavaScript e Frameworks CSS
 - [ ] 6.3 - Introdução - CSS Flexbox
 - [ ] 6.3 - CSS Flexbox - Parte 1
