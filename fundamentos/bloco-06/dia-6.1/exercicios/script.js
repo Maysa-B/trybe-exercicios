@@ -15,20 +15,21 @@ function alertas() {
     
 }
 
-const buttonClear = document.querySelector('#clear');
-buttonClear.addEventListener('click', clearAll);
+// jeito mais dificil de fazer o 'clear' do form
+// const buttonClear = document.querySelector('#clear');
+// buttonClear.addEventListener('click', clearAll);
 
-function clearAll() {
-    const limpar = document.querySelectorAll('.input');
+// function clearAll() {
+//     const limpar = document.querySelectorAll('.input');
 
-    for (let index = 0; index < limpar.length; index += 1) {
-        if (limpar[index].className === "input button") {
-            limpar[index].checked = false;
-        } else {
-            limpar[index].value = '';
-        }
-    }
-}
+//     for (let index = 0; index < limpar.length; index += 1) {
+//         if (limpar[index].className === "input button") {
+//             limpar[index].checked = false;
+//         } else {
+//             limpar[index].value = '';
+//         }
+//     }
+// }
 
 const aceitaFotos = document.querySelector('#termo2');
 aceitaFotos.addEventListener('click', inputImages);
