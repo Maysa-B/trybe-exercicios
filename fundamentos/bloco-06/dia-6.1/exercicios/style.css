@@ -1,0 +1,63 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+    background-color: plum;
+    margin: 10px;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+textarea {
+        resize: none; 
+}
+
+header {
+    text-align: center;
+    color: purple;
+}
+
+form {
+    color: plum;
+    font-size: medium;
+    font-weight: bold;
+    border: 2px solid rgb(70, 4, 70);
+    background-color: purple;
+}
+
+div, label, fieldset, legend, section, #input-image {
+    background-color: purple;  
+}
+
+#first input {
+    background-color: rgb(70, 4, 70);
+}
+
+legend {
+    padding: 3px;
+}
+
+fieldset {
+    border: 2px solid rgb(70, 4, 70);
+}
+
+#final {
+    text-align: center;
+}
+
+button {
+    text-align: center;
+    color: plum;
+    border-radius: 3px;
+    width: 100px;
+    padding: 5px;
+    background-color: rgb(70, 4, 70);
+}
+
+#clear {
+    text-align: center;
+    color: plum;
+    border-radius: 3px;
+    width: 100px;
+    padding: 5px;
+    background-color: rgb(70, 4, 70);
+}

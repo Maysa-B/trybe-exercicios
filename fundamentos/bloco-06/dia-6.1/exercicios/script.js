@@ -35,7 +35,7 @@ const aceitaFotos = document.querySelector('#termo2');
 aceitaFotos.addEventListener('click', inputImages);
 
 function inputImages() {
-    const pai = document.getElementById('final');
+    const pai = document.getElementById('botoes-finais');
 
     if(aceitaFotos.checked === true) {
         const newInput = document.createElement('input');
