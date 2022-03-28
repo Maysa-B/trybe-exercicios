@@ -3,7 +3,6 @@ let picker = new Pikaday({
     field: document.getElementById('datepicker'),
     format: "DD.MM.YYYY",
     minDate: new Date(2022, 05, 01),
-    maxDate: new Date(2020, 12, 31)
 });
 
 // picker.setMinDate(01-05-2022);
@@ -58,6 +57,7 @@ function inputImages() {
         const newInput = document.createElement('input');
         newInput.name = 'imagem';
         newInput.type = 'file';
+        newInput.className = 'form-control'
         newInput.id = 'input-image';
         pai.appendChild(newInput);
     } else {
@@ -65,23 +65,23 @@ function inputImages() {
     }
 }
 
-const radio = document.querySelectorAll('.btn-check');
+// const radio = document.querySelectorAll('.btn-check');
 
-for (let id = 0; id < radio.length; id += 1) {
-    radio[id].addEventListener('click', check);
-}
+// for (let id = 0; id < radio.length; id += 1) {
+//     radio[id].addEventListener('click', check);
+// }
 
-function check() {
+// function check() {
 
-    for (let id = 0; id < radio.length; id += 1) {
+//     for (let id = 0; id < radio.length; id += 1) {
 
-        if (radio[id].checked === true) {
-            console.log('oi')
-            radio[id].style.border = '3px solid purple';
-        } else {
-            console.log('bye')
-            radio[id].style.backgroundColor = '';
-        }
+//         if (radio[id].checked === true) {
+//             console.log('oi')
+//             radio[id].style.border = '3px solid purple';
+//         } else {
+//             console.log('bye')
+//             radio[id].style.backgroundColor = '';
+//         }
         
-    }
-}
+//     }
+// }
