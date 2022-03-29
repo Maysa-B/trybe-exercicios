@@ -41,8 +41,10 @@ header {
 
 hr {
     margin: 10px;
+    height: 3px;
     width: 100px;
-    background-color: whitesmoke;
+    border: none;
+    background-color: cadetblue;
 }
 
 .imgs-6 {
