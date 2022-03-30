@@ -120,7 +120,7 @@ footer h3 {
     font-size: 20px;
 }
 
-@media  screen and (min-width: 820px) {
+@media  screen and (min-width: 680px) {
     header {
         justify-content: center;
         align-items: center;
@@ -152,5 +152,34 @@ footer h3 {
     
     footer h3 {
         font-size: 22px;
+    }
+}
+
+@media  screen and (min-width: 900px) {
+    header nav {
+        position: absolute;
+        left: 5px;
+        top: 5px;
+        font-size: 18px;
+    }
+
+    #asides {
+        margin-top: 15px;
+        display: flex;
+        justify-content: space-around;
+    }
+
+    #main-content {
+        margin: 10px 8%;
+        font-size: 20px;
+    }
+
+    .main-text {
+        max-width: 900px;
+        text-indent: 35px;
+    }
+    
+    footer h3 {
+        font-size: 20px;
     }
 }
