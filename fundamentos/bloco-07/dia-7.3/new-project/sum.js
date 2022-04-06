@@ -68,4 +68,47 @@ function decode(fraseComCode) {
   return resultSemCode;
 }
 
-module.exports = {sum, myRemove, myFizzBuzz, encode, decode};
+function techList(tech, name) {
+  let newList = [];
+  let ordenaTech = tech.sort();
+
+  if (tech.length == 0) {
+    return 'Vazio!';
+  } else {
+    for (let id = 0; id < tech.length; id += 1) {
+      newList.push({tech: ordenaTech[id], name: name});
+    }
+  }
+
+  return newList;
+}
+
+function hydrate(string) {
+  let numbers = string.replace(/[^0-9]/g,'');
+  let arrayCorreto = [];
+  let arrayNumbers = [];
+  let soma = 0;
+
+  for (let id = 0; id < numbers.length; id += 1) {
+    arrayCorreto.push (numbers[id]);
+  }
+
+  for (let id in arrayCorreto) {
+   arrayNumbers.push(parseFloat(arrayCorreto[id]));
+  }
+
+  for (let index = 0; index < arrayNumbers.length; index += 1) {
+    soma += arrayNumbers[index];
+  }
+
+  if (soma == 1) {
+    return (soma + ' copo de água');
+  } else if (soma == 0) {
+    return ('nenhum copo de água');
+  } else {
+    return (soma + ' copos de água')
+  }
+  
+}
+
+module.exports = {sum, myRemove, myFizzBuzz, encode, decode, techList, hydrate};
