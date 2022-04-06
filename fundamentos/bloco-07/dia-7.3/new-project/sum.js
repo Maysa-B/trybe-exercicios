@@ -24,4 +24,48 @@ function myFizzBuzz(num) {
   return num;
 }
 
-module.exports = {sum, myRemove, myFizzBuzz};
+function encode(fraseSemCode) {
+  let resultCode = '';
+
+  for (let index in fraseSemCode) {
+    if (fraseSemCode[index] === 'a') {
+      resultCode += '1';
+    } else if (fraseSemCode[index] === 'e') {
+      resultCode += '2';
+    } else if (fraseSemCode[index] === 'i') {
+      resultCode += '3';
+    } else if (fraseSemCode[index] === 'o') {
+      resultCode += '4';
+    } else if (fraseSemCode[index] === 'u') {
+      resultCode += '5';
+    } else {
+      resultCode += fraseSemCode[index];
+    }
+  }
+
+  return resultCode;
+}
+
+function decode(fraseComCode) {
+  let resultSemCode = '';
+
+  for (let index in fraseComCode) {
+    if (fraseComCode[index] === '1') {
+      resultSemCode += 'a';
+    } else if (fraseComCode[index] === '2') {
+      resultSemCode += 'e';
+    } else if (fraseComCode[index] === '3') {
+      resultSemCode += 'i';
+    } else if (fraseComCode[index] === '4') {
+      resultSemCode += 'o';
+    } else if (fraseComCode[index] === '5') {
+      resultSemCode += 'u';
+    } else {
+      resultSemCode += fraseComCode[index];
+    }
+  }
+
+  return resultSemCode;
+}
+
+module.exports = {sum, myRemove, myFizzBuzz, encode, decode};
