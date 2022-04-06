@@ -31,14 +31,14 @@ O curso da Trybe é dividido em 4 grandes blocos (<a href='#fundamentos'>Fundame
 - [X] 3.2 - HTML & CSS - Primeiros passos em CSS
 - [X] 3.3 - HTML & CSS - Seletores e posicionamento
 - [X] 3.4 - HTML Semântico
-- [X] 3.5 - Projeto - Lessons Learned
+- [X] 3.5 - [Projeto - Lessons Learned](https://github.com/Maysa-B/projects-at-trybe/tree/main/fundamentos/projeto-lessons-learned)
 
 ##### Bloco 4: Introdução à JavaScript e Lógica de Programação
 - [X] 4.1 - JavaScript - Primeiros passos
 - [X] 4.2 - JavaScript - Array e loop For
 - [X] 4.3 - JavaScript - Lógica de Programação e Algoritmos
 - [X] 4.4 - JavaScript - Objetos e funções
-- [X] 4.5 - Projeto - Playground Functions
+- [X] 4.5 - [Projeto - Playground Functions](https://github.com/Maysa-B/projects-at-trybe/tree/main/fundamentos/projeto-playground-functions)
 
 ##### Bloco 5: JavaScript: DOM, Eventos e Web Storage
 - [X] 5.1 - JavaScript - DOM e seletores
@@ -46,11 +46,11 @@ O curso da Trybe é dividido em 4 grandes blocos (<a href='#fundamentos'>Fundame
 - [X] 5.3 - JavaScript - Eventos
 - [X] 5.4 - JavaScript - Web Storage
 - [X] 5.5 - Fundamentos - JavaScript - Projetos
-- [X] 5.5 - Projeto - Arte com Pixels
-- [X] 5.6 - Projeto - Lista de tarefas
-- [X] 5.7 - (Bônus) Projeto - Meme Generator
-- [X] 5.7 - (Bônus) Projeto - Adivinhe a Cor
-- [X] 5.7 - (Bônus) Projeto - Carta Misteriosa
+- [X] 5.5 - [Projeto - Arte com Pixels](https://github.com/Maysa-B/projects-at-trybe/tree/main/projeto-pixels-art)
+- [X] 5.6 - [Projeto - Lista de tarefas](https://github.com/Maysa-B/projects-at-trybe/tree/main/fundamentos/projeto-todo-list)
+- [X] 5.7 - [(Bônus) Projeto - Meme Generator](https://github.com/Maysa-B/projects-at-trybe/tree/main/fundamentos/bonus/projeto-meme-generator)
+- [X] 5.7 - [(Bônus) Projeto - Adivinhe a Cor](https://github.com/Maysa-B/projects-at-trybe/tree/main/fundamentos/bonus/projeto-color-guess)
+- [X] 5.7 - [(Bônus) Projeto - Carta Misteriosa](https://github.com/Maysa-B/projects-at-trybe/tree/main/fundamentos/bonus/projeto-mistery-letter)
 
 ##### Bloco 6: HTML e CSS: Forms, Flexbox e Responsivo
 - [X] 6.1 - HTML & CSS - Forms
@@ -61,13 +61,13 @@ O curso da Trybe é dividido em 4 grandes blocos (<a href='#fundamentos'>Fundame
 - [X] 6.3 - CSS Flexbox - Parte 1
 - [X] 6.4 - CSS Flexbox - Parte 2
 - [X] 6.5 - CSS Responsivo - Mobile First
-- [X] 6.6 - Projeto - Página inicial do Facebook
+- [X] 6.6 - [Projeto - TrybeWarts](https://github.com/Maysa-B/projects-at-trybe/tree/main/fundamentos/projeto-trybewarts)
 
 ##### Bloco 7: Introdução à JavaScript ES6 e Testes Unitários
 - [X] 7.1 - JavaScript ES6 - let, const, arrow functions e template literals
-- [ ] 7.2 - JavaScript ES6 - Objects
-- [ ] 7.3 - Testes unitários em JavaScript
-- [ ] 7.4 - Projeto - JavaScript Testes Unitários
+- [X] 7.2 - JavaScript ES6 - Objects
+- [X] 7.3 - Testes unitários em JavaScript
+- [X] 7.4 - Projeto - JavaScript Testes Unitários
 
 ##### Bloco 8: Higher Order Functions do JavaScript ES6
 - [ ] 8.1 - JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
