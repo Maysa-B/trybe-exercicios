@@ -70,22 +70,17 @@ O curso da Trybe é dividido em 4 grandes blocos (<a href='#fundamentos'>Fundame
 - [X] 7.4 - Projeto - JavaScript Testes Unitários
 
 ##### Bloco 8: Higher Order Functions do JavaScript ES6
-- [ ] 8.1 - JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
-- [ ] 8.2 - JavaScript ES6 - Higher Order Functions - map e filter
-- [ ] 8.3 - JavaScript ES6 - Higher Order Functions - reduce
-- [ ] 8.4 - JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais
+- [X] 8.1 - JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
+- [X] 8.2 - JavaScript ES6 - Higher Order Functions - map e filter
+- [X] 8.3 - JavaScript ES6 - Higher Order Functions - reduce
+- [X] 8.4 - JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais
 - [ ] 8.5 - Projeto - Zoo functions
 
-##### Bloco 9: JavaScript Assíncrono e Promises
+##### Bloco 9: JavaScript e Testes Assíncronos
 - [ ] 9.1 - JavaScript Assíncrono e Callbacks
-- [ ] 9.2 - JavaScript Promises
-- [ ] 9.3 - Projeto - Carrinho de Compras
-
-##### Bloco 10: Testes automatizados com Jest
-- [ ] 10.1 - Primeiros passos no Jest
-- [ ] 10.2 - Jest - Testes Assíncronos
-- [ ] 10.3 - Jest - Simulando comportamentos
-- [ ] 10.4 - Projeto - Jest Assíncrono e Mocking
+- [ ] 9.2 - JavaScript Assíncrono - Fetch API e async/await
+- [ ] 9.3 - Jest - Testes Assíncronos
+- [ ] 9.4 - Projeto - Carrinho de Compras
 
 <div id='front'></div>
 
