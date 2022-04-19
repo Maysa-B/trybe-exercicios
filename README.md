@@ -67,14 +67,14 @@ O curso da Trybe é dividido em 4 grandes blocos (<a href='#fundamentos'>Fundame
 - [X] 7.1 - JavaScript ES6 - let, const, arrow functions e template literals
 - [X] 7.2 - JavaScript ES6 - Objects
 - [X] 7.3 - Testes unitários em JavaScript
-- [X] 7.4 - Projeto - JavaScript Testes Unitários
+- [X] 7.4 - [Projeto - JavaScript Testes Unitários](https://github.com/Maysa-B/projects-at-trybe/tree/main/fundamentos/projeto-js-unit-test)
 
 ##### Bloco 8: Higher Order Functions do JavaScript ES6
 - [X] 8.1 - JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
 - [X] 8.2 - JavaScript ES6 - Higher Order Functions - map e filter
 - [X] 8.3 - JavaScript ES6 - Higher Order Functions - reduce
 - [X] 8.4 - JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais
-- [ ] 8.5 - Projeto - Zoo functions
+- [X] 8.5 - [Projeto - Zoo functions](https://github.com/Maysa-B/projects-at-trybe/tree/main/fundamentos/projeto-zoo-functions)
 
 ##### Bloco 9: JavaScript e Testes Assíncronos
 - [ ] 9.1 - JavaScript Assíncrono e Callbacks
