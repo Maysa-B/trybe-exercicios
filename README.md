@@ -77,8 +77,8 @@ O curso da Trybe é dividido em 4 grandes blocos (<a href='#fundamentos'>Fundame
 - [X] 8.5 - [Projeto - Zoo functions](https://github.com/Maysa-B/projects-at-trybe/tree/main/fundamentos/projeto-zoo-functions)
 
 ##### Bloco 9: JavaScript e Testes Assíncronos
-- [ ] 9.1 - JavaScript Assíncrono e Callbacks
-- [ ] 9.2 - JavaScript Assíncrono - Fetch API e async/await
+- [X] 9.1 - JavaScript Assíncrono e Callbacks
+- [X] 9.2 - JavaScript Assíncrono - Fetch API e async/await
 - [ ] 9.3 - Jest - Testes Assíncronos
 - [ ] 9.4 - Projeto - Carrinho de Compras
 
