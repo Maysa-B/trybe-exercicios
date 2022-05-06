@@ -1,0 +1,27 @@
+.allPokemons {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+h1 {
+  text-align: center;
+}
+
+section {
+  transition: 0.5s;
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+  margin: 3%;
+  border-radius: 15px;
+  border: 2px solid black;
+}
+
+section img {
+  width: 50%;
+}
+
+section:hover{
+  width: 30%;
+}
