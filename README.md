@@ -90,8 +90,8 @@ O curso da Trybe é dividido em 4 grandes blocos (<a href='#fundamentos'>Fundame
 - [X] 11.1 - Introdução - Front-end
 - [X] 11.1 - Introdução - React
 - [X] 11.1 - 'Hello, world!' no React!
-- [ ] 11.2 - Componentes React
-- [ ] 11.3 - Projeto - Movie Cards Library
+- [X] 11.2 - Componentes React
+- [X] 11.3 - [Projeto - Solar System](https://github.com/Maysa-B/projects-at-trybe/tree/main/front-end/project-solar-system)
 
 ##### Bloco 12: Componentes com Estado, Eventos e Formulários com React
 - [ ] 12.1 - Componentes com estado e eventos
