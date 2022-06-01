@@ -94,18 +94,18 @@ O curso da Trybe é dividido em 4 grandes blocos (<a href='#fundamentos'>Fundame
 - [X] 11.3 - [Projeto - Solar System](https://github.com/Maysa-B/projects-at-trybe/tree/main/front-end/project-solar-system)
 
 ##### Bloco 12: Componentes com Estado, Eventos e Formulários com React
-- [ ] 12.1 - Componentes com estado e eventos
-- [ ] 12.2 - Formulários no React
-- [ ] 12.3 - Projeto - Movie Cards Library Stateful
+- [X] 12.1 - Componentes com estado e eventos
+- [X] 12.2 - Formulários no React
+- [X] 12.3 - Projeto - Tryunfo
 
 ##### Bloco 13: Ciclo de Vida de Componentes e React Router
-- [ ] 13.1 - Ciclo de vida de componentes
-- [ ] 13.2 - React Router
-- [ ] 13.3 - Projeto - Movie Cards Library CRUD
+- [X] 13.1 - Ciclo de vida de componentes
+- [X] 13.2 - React Router
+- [X] 13.3 - Projeto - Trybetunes
 
 ##### Bloco 14: Metodologias Ágeis
-- [ ] 14.1 - Metodologias Ágeis
-- [ ] 14.2 - Projeto - Frontend Online Store
+- [X] 14.1 - Metodologias Ágeis
+- [X] 14.2 - Projeto - Frontend Online Store
 
 ##### Bloco 15: Testes automatizados com React Testing Library
 - [ ] 15.1 - RTL - Primeiros passos
