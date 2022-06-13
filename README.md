@@ -2,8 +2,7 @@
 Contém todas as atividades desenvolvidas por **_[Maysa Bonfante Salvalaio](https://www.linkedin.com/in/maysa-salvalaio-161a2815a/)_** durante minha tragetória na **_[Trybe](https://www.betrybe.com/)_**. :rocket:
 
 >"O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais."
->
-<div> <img align='center' src='https://camo.githubusercontent.com/2e7ca1342d9076ca9e255c10007af79da986ed12439d89a30d79624f1d873c89/68747470733a2f2f692e696d6775722e636f6d2f675768567a69622e706e67' alt='minha capa'> </div>
+
 
 ## Organização do repositório
 O curso da Trybe é dividido em 4 grandes blocos (<a href='#fundamentos'>Fundamentos do desenvolvimento Web</a>, <a href='#front'>Desenvolvimento Front-end</a>, <a href='#back'>Desenvolvimento Back-end</a> e <a href='#ciencia-computacao'>Ciência da Computação)</a>, dessa forma, o repositório acompanha essa separação. Possuindo pastas para cada Bloco e suas respectivas divisões.
@@ -108,15 +107,15 @@ O curso da Trybe é dividido em 4 grandes blocos (<a href='#fundamentos'>Fundame
 - [X] 14.2 - Projeto - Frontend Online Store
 
 ##### Bloco 15: Testes automatizados com React Testing Library
-- [ ] 15.1 - RTL - Primeiros passos
-- [ ] 15.2 - RTL - Mocks e Inputs
-- [ ] 15.3 - RTL - Testando React Router
-- [ ] 15.4 - Projeto - Testes em React
+- [X] 15.1 - RTL - Primeiros passos
+- [X] 15.2 - RTL - Mocks e Inputs
+- [X] 15.3 - RTL - Testando React Router
+- [X] 15.4 - Projeto - Testes em React
 
 ##### Bloco 16: Gerenciamento de estado com Redux
-- [ ] 16.1 - Introdução ao Redux - O estado global da aplicação
-- [ ] 16.2 - Usando o Redux no React
-- [ ] 16.3 - Usando o Redux no React - Prática
+- [X] 16.1 - Introdução ao Redux - O estado global da aplicação
+- [X] 16.2 - Usando o Redux no React
+- [X] 16.3 - Usando o Redux no React - Prática
 - [ ] 16.4 - Usando o Redux no React - Actions Assíncronas
 - [ ] 16.5 - Testes síncronos com React-Redux
 - [ ] 16.6 - Projeto - Tabela com filtros de dados
