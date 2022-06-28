@@ -30,14 +30,14 @@ O curso da Trybe é dividido em 4 grandes blocos (<a href='#fundamentos'>Fundame
 - [X] 3.2 - HTML & CSS - Primeiros passos em CSS
 - [X] 3.3 - HTML & CSS - Seletores e posicionamento
 - [X] 3.4 - HTML Semântico
-- [X] 3.5 - [Projeto - Lessons Learned](https://github.com/Maysa-B/projects-at-trybe/tree/main/fundamentos/projeto-lessons-learned)
+- [X] 3.5 - [Projeto - Lessons Learned](https://github.com/Maysa-B/lessons-learned)
 
 ##### Bloco 4: Introdução à JavaScript e Lógica de Programação
 - [X] 4.1 - JavaScript - Primeiros passos
 - [X] 4.2 - JavaScript - Array e loop For
 - [X] 4.3 - JavaScript - Lógica de Programação e Algoritmos
 - [X] 4.4 - JavaScript - Objetos e funções
-- [X] 4.5 - [Projeto - Playground Functions](https://github.com/Maysa-B/projects-at-trybe/tree/main/fundamentos/projeto-playground-functions)
+- [X] 4.5 - [Projeto - Playground Functions](https://github.com/Maysa-B/playground-functions)
 
 ##### Bloco 5: JavaScript: DOM, Eventos e Web Storage
 - [X] 5.1 - JavaScript - DOM e seletores
@@ -45,11 +45,11 @@ O curso da Trybe é dividido em 4 grandes blocos (<a href='#fundamentos'>Fundame
 - [X] 5.3 - JavaScript - Eventos
 - [X] 5.4 - JavaScript - Web Storage
 - [X] 5.5 - Fundamentos - JavaScript - Projetos
-- [X] 5.5 - [Projeto - Arte com Pixels](https://github.com/Maysa-B/projects-at-trybe/tree/main/projeto-pixels-art)
-- [X] 5.6 - [Projeto - Lista de tarefas](https://github.com/Maysa-B/projects-at-trybe/tree/main/fundamentos/projeto-todo-list)
-- [X] 5.7 - [(Bônus) Projeto - Meme Generator](https://github.com/Maysa-B/projects-at-trybe/tree/main/fundamentos/bonus/projeto-meme-generator)
-- [X] 5.7 - [(Bônus) Projeto - Adivinhe a Cor](https://github.com/Maysa-B/projects-at-trybe/tree/main/fundamentos/bonus/projeto-color-guess)
-- [X] 5.7 - [(Bônus) Projeto - Carta Misteriosa](https://github.com/Maysa-B/projects-at-trybe/tree/main/fundamentos/bonus/projeto-mistery-letter)
+- [X] 5.5 - [Projeto - Arte com Pixels](https://github.com/Maysa-B/pixels-art)
+- [X] 5.6 - [Projeto - Lista de tarefas](https://github.com/Maysa-B/to-do-list)
+- [X] 5.7 - [(Bônus) Projeto - Meme Generator](https://github.com/Maysa-B/meme-generator)
+- [X] 5.7 - [(Bônus) Projeto - Adivinhe a Cor](https://github.com/Maysa-B/color-guess)
+- [X] 5.7 - [(Bônus) Projeto - Carta Misteriosa](https://github.com/Maysa-B/mystery-letter)
 
 ##### Bloco 6: HTML e CSS: Forms, Flexbox e Responsivo
 - [X] 6.1 - HTML & CSS - Forms
@@ -60,26 +60,26 @@ O curso da Trybe é dividido em 4 grandes blocos (<a href='#fundamentos'>Fundame
 - [X] 6.3 - CSS Flexbox - Parte 1
 - [X] 6.4 - CSS Flexbox - Parte 2
 - [X] 6.5 - CSS Responsivo - Mobile First
-- [X] 6.6 - [Projeto - TrybeWarts](https://github.com/Maysa-B/projects-at-trybe/tree/main/fundamentos/projeto-trybewarts)
+- [X] 6.6 - [Projeto - TrybeWarts](https://github.com/Maysa-B/trybewarts)
 
 ##### Bloco 7: Introdução à JavaScript ES6 e Testes Unitários
 - [X] 7.1 - JavaScript ES6 - let, const, arrow functions e template literals
 - [X] 7.2 - JavaScript ES6 - Objects
 - [X] 7.3 - Testes unitários em JavaScript
-- [X] 7.4 - [Projeto - JavaScript Testes Unitários](https://github.com/Maysa-B/projects-at-trybe/tree/main/fundamentos/projeto-js-unit-test)
+- [X] 7.4 - [Projeto - JavaScript Testes Unitários](https://github.com/Maysa-B/unit-tests)
 
 ##### Bloco 8: Higher Order Functions do JavaScript ES6
 - [X] 8.1 - JavaScript ES6 - Higher Order Functions - forEach, find, some, every, sort
 - [X] 8.2 - JavaScript ES6 - Higher Order Functions - map e filter
 - [X] 8.3 - JavaScript ES6 - Higher Order Functions - reduce
 - [X] 8.4 - JavaScript ES6 - spread operator, parâmetro rest, destructuring e mais
-- [X] 8.5 - [Projeto - Zoo functions](https://github.com/Maysa-B/projects-at-trybe/tree/main/fundamentos/projeto-zoo-functions)
+- [X] 8.5 - [Projeto - Zoo functions](https://github.com/Maysa-B/zoo-functions)
 
 ##### Bloco 9: JavaScript e Testes Assíncronos
 - [X] 9.1 - JavaScript Assíncrono e Callbacks
 - [X] 9.2 - JavaScript Assíncrono - Fetch API e async/await
 - [X] 9.3 - Jest - Testes Assíncronos
-- [X] 9.4 - [Projeto - Carrinho de Compras](https://github.com/Maysa-B/projects-at-trybe/tree/main/fundamentos/projeto-shopping-cart)
+- [X] 9.4 - [Projeto - Carrinho de Compras](https://github.com/Maysa-B/shopping-cart)
 
 <div id='front'></div>
 
@@ -90,7 +90,7 @@ O curso da Trybe é dividido em 4 grandes blocos (<a href='#fundamentos'>Fundame
 - [X] 11.1 - Introdução - React
 - [X] 11.1 - 'Hello, world!' no React!
 - [X] 11.2 - Componentes React
-- [X] 11.3 - [Projeto - Solar System](https://github.com/Maysa-B/projects-at-trybe/tree/main/front-end/project-solar-system)
+- [X] 11.3 - Projeto - Solar System
 
 ##### Bloco 12: Componentes com Estado, Eventos e Formulários com React
 - [X] 12.1 - Componentes com estado e eventos
@@ -116,9 +116,9 @@ O curso da Trybe é dividido em 4 grandes blocos (<a href='#fundamentos'>Fundame
 - [X] 16.1 - Introdução ao Redux - O estado global da aplicação
 - [X] 16.2 - Usando o Redux no React
 - [X] 16.3 - Usando o Redux no React - Prática
-- [ ] 16.4 - Usando o Redux no React - Actions Assíncronas
-- [ ] 16.5 - Testes síncronos com React-Redux
-- [ ] 16.6 - Projeto - Tabela com filtros de dados
+- [X] 16.4 - Usando o Redux no React - Actions Assíncronas
+- [X] 16.5 - Testes síncronos com React-Redux
+- [X] 16.6 - Projeto - TrybeWallet
 
 ##### Bloco 17: Projeto Jogo de Trivia
 - [ ] 17.1 - Projeto - Jogo de Trivia
