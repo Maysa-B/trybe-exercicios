@@ -1,15 +1,9 @@
-# Trybe - Exercícios
-Contém todas as atividades desenvolvidas por **_[Maysa Bonfante Salvalaio](https://www.linkedin.com/in/maysa-salvalaio-161a2815a/)_** durante minha tragetória na **_[Trybe](https://www.betrybe.com/)_**. :rocket:
+## Organização do repositório 👩🏻‍💻​
+O curso da Trybe é dividido em 4 grandes blocos (Fundamentos do desenvolvimento Web, Desenvolvimento Front-end, Desenvolvimento Back-end e Ciência da Computação), dessa forma, o repositório acompanha essa separação. Possuindo pastas para cada Bloco e suas respectivas divisões.
 
->"O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais."
+<details>
 
-
-## Organização do repositório
-O curso da Trybe é dividido em 4 grandes blocos (<a href='#fundamentos'>Fundamentos do desenvolvimento Web</a>, <a href='#front'>Desenvolvimento Front-end</a>, <a href='#back'>Desenvolvimento Back-end</a> e <a href='#ciencia-computacao'>Ciência da Computação)</a>, dessa forma, o repositório acompanha essa separação. Possuindo pastas para cada Bloco e suas respectivas divisões.
-
-<div id='fundamentos'></div> 
-
-## Fundamentos do Desenvolvimento Web  
+<summary><h3>Fundamentos do Desenvolvimento Web 💻✅</h3></summary>
 
 <aside style='display: inline-block'><img src='https://i.imgur.com/K1473L0.png' align='right' width='200px'></aside>
 
@@ -80,61 +74,68 @@ O curso da Trybe é dividido em 4 grandes blocos (<a href='#fundamentos'>Fundame
 - [X] 9.2 - JavaScript Assíncrono - Fetch API e async/await
 - [X] 9.3 - Jest - Testes Assíncronos
 - [X] 9.4 - [Projeto - Carrinho de Compras](https://github.com/Maysa-B/shopping-cart)
+</details>
 
-<div id='front'></div>
+<details>
+<summary><h3>Desenvolvimento Front-end :hourglass_flowing_sand:</h3></summary>
 
-## Desenvolvimento Front-end :hourglass_flowing_sand:
+##### Bloco 10: Introdução à React
+- [X] 10.1 - Introdução - Front-end
+- [X] 10.1 - Introdução - React
+- [X] 10.1 - 'Hello, world!' no React!
+- [X] 10.2 - Componentes React
+- [X] 10.3 - [Projeto - Solar System](https://github.com/Maysa-B/solar-system)
 
-##### Bloco 11: Introdução à React
-- [X] 11.1 - Introdução - Front-end
-- [X] 11.1 - Introdução - React
-- [X] 11.1 - 'Hello, world!' no React!
-- [X] 11.2 - Componentes React
-- [X] 11.3 - Projeto - Solar System
+##### Bloco 11: Componentes com Estado, Eventos e Formulários com React
+- [X] 11.1 - Componentes com estado e eventos
+- [X] 11.2 - Formulários no React
+- [X] 11.3 - [Projeto - Tryunfo](https://github.com/Maysa-B/tryunfo)
 
-##### Bloco 12: Componentes com Estado, Eventos e Formulários com React
-- [X] 12.1 - Componentes com estado e eventos
-- [X] 12.2 - Formulários no React
-- [X] 12.3 - Projeto - Tryunfo
+##### Bloco 12: Ciclo de Vida de Componentes e React Router
+- [X] 12.1 - Ciclo de vida de componentes
+- [X] 12.2 - React Router
+- [X] 12.3 - [Projeto - Trybetunes](https://github.com/Maysa-B/trybetunes)
 
-##### Bloco 13: Ciclo de Vida de Componentes e React Router
-- [X] 13.1 - Ciclo de vida de componentes
-- [X] 13.2 - React Router
-- [X] 13.3 - Projeto - Trybetunes
+##### Bloco 13: Metodologias Ágeis
+- [X] 13.1 - Metodologias Ágeis
+- [X] 13.2 - Projeto - Frontend Online Store
 
-##### Bloco 14: Metodologias Ágeis
-- [X] 14.1 - Metodologias Ágeis
-- [X] 14.2 - Projeto - Frontend Online Store
+##### Bloco 14: Testes automatizados com React Testing Library
+- [X] 14.1 - RTL - Primeiros passos
+- [X] 14.2 - RTL - Mocks e Inputs
+- [X] 14.3 - RTL - Testando React Router
+- [X] 14.4 - [Projeto - Testes em React](https://github.com/Maysa-B/tests-in-react)
 
-##### Bloco 15: Testes automatizados com React Testing Library
-- [X] 15.1 - RTL - Primeiros passos
-- [X] 15.2 - RTL - Mocks e Inputs
-- [X] 15.3 - RTL - Testando React Router
-- [X] 15.4 - Projeto - Testes em React
+##### Bloco 15: Gerenciamento de estado com Redux
+- [X] 15.1 - Introdução ao Redux - O estado global da aplicação
+- [X] 15.2 - Usando o Redux no React
+- [X] 15.3 - Usando o Redux no React - Prática
+- [X] 15.4 - Usando o Redux no React - Actions Assíncronas
+- [X] 15.5 - Testes síncronos com React-Redux
+- [X] 15.6 - [Projeto - TrybeWallet](https://github.com/Maysa-B/trybewallet)
 
-##### Bloco 16: Gerenciamento de estado com Redux
-- [X] 16.1 - Introdução ao Redux - O estado global da aplicação
-- [X] 16.2 - Usando o Redux no React
-- [X] 16.3 - Usando o Redux no React - Prática
-- [X] 16.4 - Usando o Redux no React - Actions Assíncronas
-- [X] 16.5 - Testes síncronos com React-Redux
-- [X] 16.6 - Projeto - TrybeWallet
+##### Bloco 16: Projeto Jogo de Trivia
+- [ ] 16.1 - Projeto - Jogo de Trivia
 
-##### Bloco 17: Projeto Jogo de Trivia
-- [ ] 17.1 - Projeto - Jogo de Trivia
+##### Bloco 17: Context API e React Hooks
+- [ ] 17.1 - Context API do React
+- [ ] 17.2 - React Hooks - useState e useContext
+- [ ] 17.3 - React Hooks - useEffect e Hooks customizados
+- [ ] 17.4 - Projeto - StarWars Datatable com Context API e Hooks
 
-##### Bloco 18: Context API e React Hooks
-- [ ] 18.1 - Context API do React
-- [ ] 18.2 - React Hooks - useState e useContext
-- [ ] 18.3 - React Hooks - useEffect e Hooks customizados
-- [ ] 18.4 - Projeto - StarWars Datatable com Context API e Hooks
+##### Bloco 18: Projeto App de Receitas
+- [ ] 18.1 - Projeto - App de Receitas
+</details>
 
-##### Bloco 19: Projeto App de Receitas
-- [ ] 19.1 - Projeto - App de Receitas
+<details>
+<summary><h3>Desenvolvimento Back-end :hourglass_flowing_sand:</h3></summary>
 
-<div id='back'></div>
-
-## Desenvolvimento Back-end :hourglass_flowing_sand:
+#### Bloco 19: Docker: Utilizando Containers
+- [ ] 19.1 - Introdução - Back-end
+- [ ] 19.1 - Utilizando Containers - Docker
+- [ ] 19.2 - Manipulando Imagens no Docker
+- [ ] 19.3 - Orquestrando Containers com Docker Compose
+- [ ] 19.4 - Projeto - Docker To do - List
 
 ##### Bloco 20: Introdução à SQL
 - [ ] 20.1 - Introdução - Back-end
@@ -218,9 +219,10 @@ O curso da Trybe é dividido em 4 grandes blocos (<a href='#fundamentos'>Fundame
 ##### Bloco 32: Projeto Trybeer II
 - [ ] 32.1 - Projeto - Trybeer v2
 
-<div id='ciencia-computacao'></div>
+</details>
 
-## Ciência da Computação :hourglass_flowing_sand:
+<details>
+<summary><h3>Ciência da Computação :hourglass_flowing_sand:</h3></summary>
 
 ##### Bloco 33: Arquitetura de Computadores e Redes
 - [ ] 33.1 - Introdução - Ciência da Computação
@@ -259,4 +261,4 @@ O curso da Trybe é dividido em 4 grandes blocos (<a href='#fundamentos'>Fundame
 - [ ] 38.2 - Deque
 - [ ] 38.3 - Pilhas
 - [ ] 38.4 - Projeto - TING - Trybe Is Not Google
-
+</details>
