@@ -115,13 +115,13 @@ O curso da Trybe é dividido em 4 grandes blocos (Fundamentos do desenvolvimento
 - [X] 15.6 - [Projeto - TrybeWallet](https://github.com/Maysa-B/trybewallet)
 
 ##### Bloco 16: Projeto Jogo de Trivia
-- [X] 16.1 - Projeto - Jogo de Trivia
+- [X] 16.1 - [Projeto - Jogo de Trivia](https://github.com/Maysa-B/trivia-react-redux)
 
 ##### Bloco 17: Context API e React Hooks
 - [X] 17.1 - Context API do React
 - [X] 17.2 - React Hooks - useState e useContext
 - [X] 17.3 - React Hooks - useEffect e Hooks customizados
-- [ ] 17.4 - Projeto - StarWars Datatable com Context API e Hooks
+- [X] 17.4 - [Projeto - StarWars Datatable com Context API e Hooks](https://github.com/Maysa-B/starwars-planets-search)
 
 ##### Bloco 18: Projeto App de Receitas
 - [ ] 18.1 - Projeto - App de Receitas
