@@ -124,15 +124,15 @@ O curso da Trybe é dividido em 4 grandes blocos (Fundamentos do desenvolvimento
 - [X] 17.4 - [Projeto - StarWars Datatable com Context API e Hooks](https://github.com/Maysa-B/starwars-planets-search)
 
 ##### Bloco 18: Projeto App de Receitas
-- [ ] 18.1 - Projeto - App de Receitas
+- [X] 18.1 - [Projeto - App de Receitas](https://github.com/Maysa-B/recipes-app)
 </details>
 
 <details>
 <summary><h3>Desenvolvimento Back-end :hourglass_flowing_sand:</h3></summary>
 
 #### Bloco 19: Docker: Utilizando Containers
-- [ ] 19.1 - Introdução - Back-end
-- [ ] 19.1 - Utilizando Containers - Docker
+- [X] 19.1 - Introdução - Back-end
+- [X] 19.1 - Utilizando Containers - Docker
 - [ ] 19.2 - Manipulando Imagens no Docker
 - [ ] 19.3 - Orquestrando Containers com Docker Compose
 - [ ] 19.4 - Projeto - Docker To do - List
