@@ -77,7 +77,9 @@ O curso da Trybe é dividido em 4 grandes blocos (Fundamentos do desenvolvimento
 </details>
 
 <details>
-<summary><h3>Desenvolvimento Front-end :hourglass_flowing_sand:</h3></summary>
+<summary><h3>Desenvolvimento Front-end ⚛️✅</h3></summary>
+
+<aside style='display: inline-block'><img src='https://i.imgur.com/K1473L0.png' align='right' width='200px'></aside>
 
 ##### Bloco 10: Introdução à React
 - [X] 10.1 - Introdução - Front-end
@@ -133,9 +135,9 @@ O curso da Trybe é dividido em 4 grandes blocos (Fundamentos do desenvolvimento
 #### Bloco 19: Docker: Utilizando Containers
 - [X] 19.1 - Introdução - Back-end
 - [X] 19.1 - Utilizando Containers - Docker
-- [ ] 19.2 - Manipulando Imagens no Docker
-- [ ] 19.3 - Orquestrando Containers com Docker Compose
-- [ ] 19.4 - Projeto - Docker To do - List
+- [X] 19.2 - Manipulando Imagens no Docker
+- [X] 19.3 - Orquestrando Containers com Docker Compose
+- [X] 19.4 - [Projeto - Docker To do - List](https://github.com/Maysa-B/docker-todo-list)
 
 ##### Bloco 20: Introdução à SQL
 - [ ] 20.1 - Introdução - Back-end
