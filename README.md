@@ -1,4 +1,4 @@
-## Organização do repositório 👩🏻‍💻​
+## Organização do repositório 👩🏻‍💻
 O curso da Trybe é dividido em 4 grandes blocos (Fundamentos do desenvolvimento Web, Desenvolvimento Front-end, Desenvolvimento Back-end e Ciência da Computação), dessa forma, o repositório acompanha essa separação. Possuindo pastas para cada Bloco e suas respectivas divisões.
 
 <details>
@@ -140,25 +140,27 @@ O curso da Trybe é dividido em 4 grandes blocos (Fundamentos do desenvolvimento
 - [X] 19.4 - [Projeto - Docker To do - List](https://github.com/Maysa-B/docker-todo-list)
 
 ##### Bloco 20: Introdução à SQL
-- [ ] 20.1 - Introdução - Back-end
-- [ ] 20.1 - Introdução - Bancos de dados relacionais
-- [ ] 20.1 - Banco de dados SQL
-- [ ] 20.2 - Encontrando dados em um banco de dados
-- [ ] 20.3 - Filtrando dados de forma específica
+- [x] 20.1 - Introdução - Bancos de dados relacionais
+- [x] 20.1 - Banco de dados SQL
+- [x] 20.2 - Encontrando dados em um banco de dados
+- [x] 20.3 - Filtrando dados de forma específica
 - [ ] 20.4 - Manipulando tabelas
 - [ ] 20.5 - Projeto - All For One
 
 ##### Bloco 21: Funções SQL, Joins e Subqueries
 - [ ] 21.1 - Funções mais usadas no SQL
-- [ ] 21.2 - Descomplicando JOINs e UNIONs
-- [ ] 21.3 - Stored Routines & Subqueries
-- [ ] 21.4 - Projeto - Vocabulary Booster
+- [ ] 21.2 - Descomplicando JOINs
+- [ ] 21.3 - Transformando ideias em um modelo de banco de dados
+- [ ] 21.4 - Projeto - One for All
 
-##### Bloco 22: Normalização e Modelagem de Banco de Dados
-- [ ] 22.1 - Transformando ideias em um modelo de banco de dados
-- [ ] 22.2 - Normalização, Formas Normais e Dumps
-- [ ] 22.3 - Transformando ideias em um modelo de banco de dados - Parte 2
-- [ ] 22.4 - Projeto - One For All
+##### Bloco 22:Introdução ao desenvolvimento Web com Node.js
+- [ ] 22.1 - Intro - Node.js
+- [ ] 22.1 - Node.js - Um moto JavaScript
+- [ ] 22.2 - Node.js - Fluxo Assíncrono
+- [ ] 22.3 - Mocha, Chai e Sino - Testes de Back-end com Node.js
+- [ ] 22.4 - Express - HTTP com Node.js
+- [ ] 22.5 - Express - Middlewares
+- [ ] 22.4 - Projeto - Talker Manager
 
 ##### Bloco 23: Introdução ao MongoDB
 - [ ] 23.1 - Introdução - NoSQL
