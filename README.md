@@ -144,14 +144,14 @@ O curso da Trybe é dividido em 4 grandes blocos (Fundamentos do desenvolvimento
 - [x] 20.1 - Banco de dados SQL
 - [x] 20.2 - Encontrando dados em um banco de dados
 - [x] 20.3 - Filtrando dados de forma específica
-- [ ] 20.4 - Manipulando tabelas
-- [ ] 20.5 - Projeto - All For One
+- [X] 20.4 - Manipulando tabelas
+- [X] 20.5 - [Projeto - All For One](https://github.com/Maysa-B/one-for-all-for-one)
 
 ##### Bloco 21: Funções SQL, Joins e Subqueries
-- [ ] 21.1 - Funções mais usadas no SQL
-- [ ] 21.2 - Descomplicando JOINs
-- [ ] 21.3 - Transformando ideias em um modelo de banco de dados
-- [ ] 21.4 - Projeto - One for All
+- [X] 21.1 - Funções mais usadas no SQL
+- [X] 21.2 - Descomplicando JOINs
+- [X] 21.3 - Transformando ideias em um modelo de banco de dados
+- [X] 21.4 - [Projeto - One for All](https://github.com/Maysa-B/one-for-all-for-one)
 
 ##### Bloco 22:Introdução ao desenvolvimento Web com Node.js
 - [ ] 22.1 - Intro - Node.js
