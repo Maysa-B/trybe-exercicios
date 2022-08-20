@@ -154,13 +154,13 @@ O curso da Trybe é dividido em 4 grandes blocos (Fundamentos do desenvolvimento
 - [X] 21.4 - [Projeto - One for All](https://github.com/Maysa-B/one-for-all-for-one)
 
 ##### Bloco 22:Introdução ao desenvolvimento Web com Node.js
-- [ ] 22.1 - Intro - Node.js
-- [ ] 22.1 - Node.js - Um moto JavaScript
-- [ ] 22.2 - Node.js - Fluxo Assíncrono
-- [ ] 22.3 - Mocha, Chai e Sino - Testes de Back-end com Node.js
-- [ ] 22.4 - Express - HTTP com Node.js
-- [ ] 22.5 - Express - Middlewares
-- [ ] 22.4 - Projeto - Talker Manager
+- [X] 22.1 - Intro - Node.js
+- [X] 22.1 - Node.js - Runtime assíncrono
+- [ ] 22.2 - Node.js - API REST com Express
+- [ ] 22.3 - Node.js - Testes de Integração
+- [ ] 22.4 - Express - Middlewares
+- [ ] 22.5 - Node.js - Express e Mysql
+- [ ] 22.6 - Projeto - Talker Manager
 
 ##### Bloco 23: Introdução ao MongoDB
 - [ ] 23.1 - Introdução - NoSQL
