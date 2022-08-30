@@ -156,17 +156,19 @@ O curso da Trybe é dividido em 4 grandes blocos (Fundamentos do desenvolvimento
 ##### Bloco 22:Introdução ao desenvolvimento Web com Node.js
 - [X] 22.1 - Intro - Node.js
 - [X] 22.1 - Node.js - Runtime assíncrono
-- [ ] 22.2 - Node.js - API REST com Express
-- [ ] 22.3 - Node.js - Testes de Integração
-- [ ] 22.4 - Express - Middlewares
-- [ ] 22.5 - Node.js - Express e Mysql
-- [ ] 22.6 - Projeto - Talker Manager
+- [X] 22.2 - Node.js - API REST com Express
+- [X] 22.3 - Node.js - Testes de Integração
+- [X] 22.4 - Express - Middlewares
+- [X] 22.5 - Node.js - Express e Mysql
+- [X] 22.6 - Projeto - Talker Manager
 
-##### Bloco 23: Introdução ao MongoDB
-- [ ] 23.1 - Introdução - NoSQL
-- [ ] 23.1 - MongoDB - Introdução
-- [ ] 23.2 - Filter Operators
-- [ ] 23.3 - Projeto - Data Flights
+##### Bloco 23: Node.js: Camada de Serviço e Arquitetura Rest e Restful
+- [ ] 23.1 - Introdução - Arquitetura de Software
+- [ ] 23.1 - Arquitetura de Software - Camada de Model
+- [ ] 23.2 - Arquitetura de Software - Camada de Controller e Service
+- [ ] 23.3 - Arquitetura de Software - Rest e Restfull
+- [ ] 23.4 - Arquitetura de Software - Testando as Camadas
+- [ ] 23.5 - Projeto - Store Manager
 
 ##### Bloco 24: MongoDB: Updates Simples e Complexos
 - [ ] 24.1 - Updates Simples
