@@ -163,12 +163,12 @@ O curso da Trybe é dividido em 4 grandes blocos (Fundamentos do desenvolvimento
 - [X] 22.6 - Projeto - Talker Manager
 
 ##### Bloco 23: Node.js: Camada de Serviço e Arquitetura Rest e Restful
-- [ ] 23.1 - Introdução - Arquitetura de Software
-- [ ] 23.1 - Arquitetura de Software - Camada de Model
-- [ ] 23.2 - Arquitetura de Software - Camada de Controller e Service
-- [ ] 23.3 - Arquitetura de Software - Rest e Restfull
-- [ ] 23.4 - Arquitetura de Software - Testando as Camadas
-- [ ] 23.5 - Projeto - Store Manager
+- [X] 23.1 - Introdução - Arquitetura de Software
+- [X] 23.1 - Arquitetura de Software - Camada de Model
+- [X] 23.2 - Arquitetura de Software - Camada de Controller e Service
+- [X] 23.3 - Arquitetura de Software - Rest e Restfull
+- [X] 23.4 - Arquitetura de Software - Testando as Camadas
+- [X] 23.5 - [Projeto - Store Manager](https://github.com/Maysa-B/store-manager)
 
 ##### Bloco 24: MongoDB: Updates Simples e Complexos
 - [ ] 24.1 - Updates Simples
