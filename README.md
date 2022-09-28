@@ -171,11 +171,11 @@ O curso da Trybe é dividido em 4 grandes blocos (Fundamentos do desenvolvimento
 - [X] 23.5 - [Projeto - Store Manager](https://github.com/Maysa-B/store-manager)
 
 ##### Bloco 24: Node.js ORM e Autenticação
-- [ ] 24.1 - ORM - Interface da aplicação com o banco de dados
-- [ ] 24.2 - ORM - Associations 1:1 e 1:N
-- [ ] 24.3 - ORM - Associations N:N e Transactions
-- [ ] 24.4 - JWT - (JSON Web Token)
-- [ ] 24.5 - Projeto - API de Blogs
+- [X] 24.1 - ORM - Interface da aplicação com o banco de dados
+- [X] 24.2 - ORM - Associations 1:1 e 1:N
+- [X] 24.3 - ORM - Associations N:N e Transactions
+- [X] 24.4 - JWT - (JSON Web Token)
+- [X] 24.5 - [Projeto - API de Blogs](https://github.com/Maysa-B/blogs-api).
 
 ##### Bloco 25: Deployment
 - [ ] 25.1 - Introdução - Deploy
