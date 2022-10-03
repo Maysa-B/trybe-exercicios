@@ -178,10 +178,10 @@ O curso da Trybe é dividido em 4 grandes blocos (Fundamentos do desenvolvimento
 - [X] 24.5 - [Projeto - API de Blogs](https://github.com/Maysa-B/blogs-api).
 
 ##### Bloco 25: Deployment
-- [ ] 25.1 - Introdução - Deploy
-- [ ] 25.1 - Infraestrutura - Deploy com Heroku
-- [ ] 25.2 - Deploy Docker & Heroku
-- [ ] 25.3 - Projeto - Stranger Things
+- [X] 25.1 - Introdução - Deploy
+- [X] 25.1 - Infraestrutura - Deploy com Heroku
+- [X] 25.2 - Deploy Docker & Heroku
+- [X] 25.3 - Projeto - Stranger Things
 
 #### Bloco 26: TypeScript
 - [ ] 26.1 - Introdução ao TypeScript
