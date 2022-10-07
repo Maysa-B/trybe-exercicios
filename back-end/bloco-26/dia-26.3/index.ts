@@ -14,3 +14,4 @@ const userController = new UserController();
 
 app.get('/users', userController.getAll);
 app.get('/users/:id', userController.getById);
+app.post('/users', userController.insertNewUser);

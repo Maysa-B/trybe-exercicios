@@ -1,5 +1,6 @@
 import User from "../interfaces/user";
 import { Pool, RowDataPacket } from 'mysql2/promise';
+import INewUserBody from "../interfaces/bodyUser";
 
 class UserModel {
   connection: Pool;
@@ -20,9 +21,23 @@ class UserModel {
     return element[0] as User;
   }
 
-  insertId = async () => {
-    const inserting = await this.connection.execute<RowDataPacket[]>('INSERT INTO Users () VALUES ()');
+  insertNewUser = async (body: INewUserBody):Promise<RowDataPacket[]> => {
+    const [inserting] = await this.connection.execute<RowDataPacket[]>('INSERT INTO Users (name, email, password) VALUES (?, ?, ?)', [body.name, body.email, body.password]);
     return inserting;
+  }
+
+  updateUser = async (id: string, body: INewUserBody):Promise<RowDataPacket[]> => {
+    const [inserting] = await this.connection.execute<RowDataPacket[]>(`UPDATE Users
+    SET name = ?, email = ?, password = ?
+    WHERE id = ?`, [body.name, body.email, body.password, id]);
+    return inserting;
+  }
+
+
+  deleteUser = async (id: string):Promise<RowDataPacket[]> => {
+    const [deleting] = await this.connection.execute<RowDataPacket[]>(`DELETE from Users
+    WHERE id = ?`, [id]);
+    return deleting;
   }
 }
 
