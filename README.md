@@ -184,10 +184,10 @@ O curso da Trybe é dividido em 4 grandes blocos (Fundamentos do desenvolvimento
 - [X] 25.3 - Projeto - Stranger Things
 
 #### Bloco 26: TypeScript
-- [ ] 26.1 - Introdução ao TypeScript
-- [ ] 26.2 - Tipagem Estática e Generics
-- [ ] 26.3 - Express com TypeScript
-- [ ] 26.4 - Projeto - Trybe Smith
+- [X] 26.1 - Introdução ao TypeScript
+- [X] 26.2 - Tipagem Estática e Generics
+- [X] 26.3 - Express com TypeScript
+- [X] 26.4 - Projeto - Trybe Smith
 
 #### Bloco 27: Programação Orientada a Objetos (POO) e SOLID
 - [ ] 27.1 - Introdução à Orientação a Objetos
