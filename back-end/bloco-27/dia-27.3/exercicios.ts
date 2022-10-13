@@ -269,15 +269,23 @@ carolina.addEvaluationResult(new EvaluationResult(workMath, 42));
 carolina.addEvaluationResult(new EvaluationResult(examhtry, 25));
 carolina.addEvaluationResult(new EvaluationResult(workhtry, 50));
 
-console.log('Avaliações: ', carolina.evaluationsResults);
-console.log('Soma das notas: ', carolina.sumGrades());
-console.log('Média das notas: ', carolina.sumAverageGrades());
+// console.log('Avaliações: ', carolina.evaluationsResults);
+// console.log('Soma das notas: ', carolina.sumGrades());
+// console.log('Média das notas: ', carolina.sumAverageGrades());
 
-lucas.addEvaluationResult(new EvaluationResult(examMath, 25));
-lucas.addEvaluationResult(new EvaluationResult(workMath, 49));
-lucas.addEvaluationResult(new EvaluationResult(examhtry, 20));
-lucas.addEvaluationResult(new EvaluationResult(workhtry, 50));
+// lucas.addEvaluationResult(new EvaluationResult(examMath, 25));
+// lucas.addEvaluationResult(new EvaluationResult(workMath, 49));
+// lucas.addEvaluationResult(new EvaluationResult(examhtry, 20));
+// lucas.addEvaluationResult(new EvaluationResult(workhtry, 50));
 
-console.log('Avaliações: ', lucas.evaluationsResults);
-console.log('Soma das notas: ', lucas.sumGrades());
-console.log('Média das notas: ', lucas.sumAverageGrades());
+// console.log('Avaliações: ', lucas.evaluationsResults);
+// console.log('Soma das notas: ', lucas.sumGrades());
+// console.log('Média das notas: ', lucas.sumAverageGrades());
+
+export {
+  Person,
+  carolina,
+  lucas,
+  marta, 
+  joao
+}
