@@ -190,9 +190,9 @@ O curso da Trybe é dividido em 4 grandes blocos (Fundamentos do desenvolvimento
 - [X] 26.4 - Projeto - Trybe Smith
 
 #### Bloco 27: Programação Orientada a Objetos (POO) e SOLID
-- [ ] 27.1 - Introdução à Orientação a Objetos
-- [ ] 27.2 - Heranças e Interfaces
-- [ ] 27.3 - Polimorfismo
+- [X] 27.1 - Introdução à Orientação a Objetos
+- [X] 27.2 - Heranças e Interfaces
+- [X] 27.3 - Polimorfismo
 - [ ] 27.4 - SOLID - Introdução e Princípios S, O e D
 - [ ] 27.5 - SOLID - Princípios L e I
 - [ ] 27.6 - Projeto - Trybers and Dragons
