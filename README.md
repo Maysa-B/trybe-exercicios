@@ -31,7 +31,7 @@ O curso da Trybe é dividido em 4 grandes blocos (Fundamentos do desenvolvimento
 - [X] 4.2 - JavaScript - Array e loop For
 - [X] 4.3 - JavaScript - Lógica de Programação e Algoritmos
 - [X] 4.4 - JavaScript - Objetos e funções
-- [X] 4.5 - [Projeto - Playground Functions](https://github.com/Maysa-B/playground-functions)
+- [X] 4.5 - Projeto - Playground Functions
 
 ##### Bloco 5: JavaScript: DOM, Eventos e Web Storage
 - [X] 5.1 - JavaScript - DOM e seletores
@@ -41,9 +41,9 @@ O curso da Trybe é dividido em 4 grandes blocos (Fundamentos do desenvolvimento
 - [X] 5.5 - Fundamentos - JavaScript - Projetos
 - [X] 5.5 - [Projeto - Arte com Pixels](https://github.com/Maysa-B/pixels-art)
 - [X] 5.6 - [Projeto - Lista de tarefas](https://github.com/Maysa-B/to-do-list)
-- [X] 5.7 - [(Bônus) Projeto - Meme Generator](https://github.com/Maysa-B/meme-generator)
+- [X] 5.7 - (Bônus) Projeto - Meme Generator
 - [X] 5.7 - [(Bônus) Projeto - Adivinhe a Cor](https://github.com/Maysa-B/color-guess)
-- [X] 5.7 - [(Bônus) Projeto - Carta Misteriosa](https://github.com/Maysa-B/mystery-letter)
+- [X] 5.7 - (Bônus) Projeto - Carta Misteriosa
 
 ##### Bloco 6: HTML e CSS: Forms, Flexbox e Responsivo
 - [X] 6.1 - HTML & CSS - Forms
@@ -91,7 +91,7 @@ O curso da Trybe é dividido em 4 grandes blocos (Fundamentos do desenvolvimento
 ##### Bloco 11: Componentes com Estado, Eventos e Formulários com React
 - [X] 11.1 - Componentes com estado e eventos
 - [X] 11.2 - Formulários no React
-- [X] 11.3 - [Projeto - Tryunfo](https://github.com/Maysa-B/tryunfo)
+- [X] 11.3 - Projeto - Tryunfo
 
 ##### Bloco 12: Ciclo de Vida de Componentes e React Router
 - [X] 12.1 - Ciclo de vida de componentes
@@ -106,7 +106,7 @@ O curso da Trybe é dividido em 4 grandes blocos (Fundamentos do desenvolvimento
 - [X] 14.1 - RTL - Primeiros passos
 - [X] 14.2 - RTL - Mocks e Inputs
 - [X] 14.3 - RTL - Testando React Router
-- [X] 14.4 - [Projeto - Testes em React](https://github.com/Maysa-B/tests-in-react)
+- [X] 14.4 - Projeto - Testes em React
 
 ##### Bloco 15: Gerenciamento de estado com Redux
 - [X] 15.1 - Introdução ao Redux - O estado global da aplicação
@@ -193,15 +193,15 @@ O curso da Trybe é dividido em 4 grandes blocos (Fundamentos do desenvolvimento
 - [X] 27.1 - Introdução à Orientação a Objetos
 - [X] 27.2 - Heranças e Interfaces
 - [X] 27.3 - Polimorfismo
-- [ ] 27.4 - SOLID - Introdução e Princípios S, O e D
-- [ ] 27.5 - SOLID - Princípios L e I
-- [ ] 27.6 - Projeto - Trybers and Dragons
+- [X] 27.4 - SOLID - Introdução e Princípios S, O e D
+- [X] 27.5 - SOLID - Princípios L e I
+- [X] 27.6 - Projeto - Trybers and Dragons
 
 #### Bloco 28: TFC - Trybe Futebol Clube
-- [ ] 28.1 - Projeto - TFC - Trybe Futebol Clube
+- [X] 28.1 - Projeto - TFC - Trybe Futebol Clube
 
 ##### Bloco 29: Introdução ao MongoDB
-- [ ] 29.1 - Introdução - NoSQL
+- [X] 29.1 - Introdução - NoSQL
 - [ ] 29.1 - MongoDB - Introdução
 - [ ] 29.2 - Filter Operators
 - [ ] 29.3 - operadores de consulta
