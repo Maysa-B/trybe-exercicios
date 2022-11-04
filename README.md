@@ -137,7 +137,7 @@ O curso da Trybe é dividido em 4 grandes blocos (Fundamentos do desenvolvimento
 - [X] 19.1 - Utilizando Containers - Docker
 - [X] 19.2 - Manipulando Imagens no Docker
 - [X] 19.3 - Orquestrando Containers com Docker Compose
-- [X] 19.4 - [Projeto - Docker To do - List](https://github.com/Maysa-B/docker-todo-list)
+- [X] 19.4 - Projeto - Docker To do - List
 
 ##### Bloco 20: Introdução à SQL
 - [x] 20.1 - Introdução - Bancos de dados relacionais
@@ -145,13 +145,13 @@ O curso da Trybe é dividido em 4 grandes blocos (Fundamentos do desenvolvimento
 - [x] 20.2 - Encontrando dados em um banco de dados
 - [x] 20.3 - Filtrando dados de forma específica
 - [X] 20.4 - Manipulando tabelas
-- [X] 20.5 - [Projeto - All For One](https://github.com/Maysa-B/one-for-all-for-one)
+- [X] 20.5 - Projeto - All For One
 
 ##### Bloco 21: Funções SQL, Joins e Subqueries
 - [X] 21.1 - Funções mais usadas no SQL
 - [X] 21.2 - Descomplicando JOINs
 - [X] 21.3 - Transformando ideias em um modelo de banco de dados
-- [X] 21.4 - [Projeto - One for All](https://github.com/Maysa-B/one-for-all-for-one)
+- [X] 21.4 - Projeto - One for All
 
 ##### Bloco 22:Introdução ao desenvolvimento Web com Node.js
 - [X] 22.1 - Intro - Node.js
@@ -202,9 +202,9 @@ O curso da Trybe é dividido em 4 grandes blocos (Fundamentos do desenvolvimento
 
 ##### Bloco 29: Introdução ao MongoDB
 - [X] 29.1 - Introdução - NoSQL
-- [ ] 29.1 - MongoDB - Introdução
-- [ ] 29.2 - Filter Operators
-- [ ] 29.3 - operadores de consulta
+- [X] 29.1 - MongoDB - Introdução
+- [X] 29.2 - Filter Operators
+- [ ] 29.3 - Operadores de consulta
 - [ ] 29.4 - Updates Simples
 - [ ] 29.5 - Updates Complexos - Arrays
 - [ ] 29.6 - Projeto - Commerce
