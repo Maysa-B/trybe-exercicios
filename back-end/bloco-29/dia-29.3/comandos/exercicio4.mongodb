@@ -1,0 +1,11 @@
+use('cinema')
+db.movies.find({
+  ratings: {
+    $elemMatch: { $gt: 100, $lt: 105 }
+  }
+},
+{
+  ratings: true,
+  title: true,
+  _id: false
+})

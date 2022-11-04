@@ -1,0 +1,10 @@
+use('cinema')
+db.movies.find({
+  ratings: {
+    $size: 4
+  }
+},
+{
+  title: true,
+  _id: false
+})
