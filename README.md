@@ -187,7 +187,7 @@ O curso da Trybe é dividido em 4 grandes blocos (Fundamentos do desenvolvimento
 - [X] 26.1 - Introdução ao TypeScript
 - [X] 26.2 - Tipagem Estática e Generics
 - [X] 26.3 - Express com TypeScript
-- [X] 26.4 - Projeto - Trybe Smith
+- [X] 26.4 - [Projeto - Trybe Smith](https://github.com/Maysa-B/trybesmith)
 
 #### Bloco 27: Programação Orientada a Objetos (POO) e SOLID
 - [X] 27.1 - Introdução à Orientação a Objetos
@@ -204,10 +204,10 @@ O curso da Trybe é dividido em 4 grandes blocos (Fundamentos do desenvolvimento
 - [X] 29.1 - Introdução - NoSQL
 - [X] 29.1 - MongoDB - Introdução
 - [X] 29.2 - Filter Operators
-- [ ] 29.3 - Operadores de consulta
-- [ ] 29.4 - Updates Simples
-- [ ] 29.5 - Updates Complexos - Arrays
-- [ ] 29.6 - Projeto - Commerce
+- [X] 29.3 - Operadores de consulta
+- [X] 29.4 - Updates Simples
+- [X] 29.5 - Updates Complexos - Arrays
+- [X] 29.6 - Projeto - Commerce
 
 #### Bloco 30: MongoDb com Node.js e POO
 - [ ] 30.1 - Mongoose e arquitetura MSC (camada Model)
