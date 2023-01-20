@@ -224,10 +224,9 @@ O curso da Trybe é dividido em 4 grandes blocos (Fundamentos do desenvolvimento
 
 ##### Bloco 32: Introdução à Python e Raspagem de Dados da Web
 - [X] 32.1 - Aprendendo Python
-- [ ] 32.2 - Entrada e Saída de dados
-- [ ] 32.3 - Raspagem de Dados
-- [ ] 32.4 - Testes
-- [ ] 32.5 - Projeto - Tech news
+- [X] 32.2 - Entrada e Saída de dados
+- [ ] 32.3 - Testes
+- [ ] 32.4 - Projeto - Job Insights
 
 ##### Bloco 34: Programação Orientada a Objetos e Padrões de Projeto
 - [ ] 34.1 - Introdução à programação orientada a objetos

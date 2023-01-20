@@ -1,0 +1,11 @@
+vaca
+cachorro
+gato
+abelha
+cavalo
+peixe
+macaco
+leão
+tigre
+cabra
+ovelha
