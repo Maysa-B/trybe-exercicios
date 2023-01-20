@@ -210,57 +210,46 @@ O curso da Trybe é dividido em 4 grandes blocos (Fundamentos do desenvolvimento
 - [X] 29.6 - Projeto - Commerce
 
 #### Bloco 30: MongoDb com Node.js e POO
-- [ ] 30.1 - Mongoose e arquitetura MSC (camada Model)
-- [ ] 30.2 - Mongoose e arquitetura MSC (camada Service e Controller)
-- [ ] 30.3 - Projeto - Car Shop
+- [X] 30.1 - Mongoose e arquitetura MSC (camada Model)
+- [X] 30.2 - Mongoose e arquitetura MSC (camada Service e Controller)
+- [X] 30.3 - Projeto - Car Shop
 
 #### Bloco 31: Projeto - App de Delivery
-- [ ] 31.1 - Projeto - App de Delivery
-
-#### Bloco 32: MasterClass - VPS, CI/CD
-- [ ] 32.1 - Dia 1 - VPS
-- [ ] 32.2 - Dia 2
+- [X] 31.1 - Projeto - App de Delivery
 
 </details>
 
 <details>
 <summary><h3>Ciência da Computação :hourglass_flowing_sand:</h3></summary>
 
-##### Bloco 33: Arquitetura de Computadores e Redes
-- [ ] 33.1 - Introdução - Ciência da Computação
-- [ ] 33.2 - Arquitetura de Computadores
-- [ ] 33.3 - Arquitetura de redes
-- [ ] 33.4 - Redes de computadores, ferramentas e segurança
-- [ ] 33.5 - Projeto - Explorando os protocolos
+##### Bloco 32: Introdução à Python e Raspagem de Dados da Web
+- [X] 32.1 - Aprendendo Python
+- [ ] 32.2 - Entrada e Saída de dados
+- [ ] 32.3 - Raspagem de Dados
+- [ ] 32.4 - Testes
+- [ ] 32.5 - Projeto - Tech news
 
-##### Bloco 34: Introdução à Python e Raspagem de Dados da Web
-- [ ] 34.1 - Aprendendo Python
-- [ ] 34.2 - Entrada e Saída de dados
-- [ ] 34.3 - Raspagem de Dados
-- [ ] 34.4 - Testes
-- [ ] 34.5 - Projeto - Tech news
+##### Bloco 34: Programação Orientada a Objetos e Padrões de Projeto
+- [ ] 34.1 - Introdução à programação orientada a objetos
+- [ ] 34.2 - Herança, Composição e Interfaces
+- [ ] 34.3 - Padrões de projeto
+- [ ] 34.4 - Projeto - Relatórios de Estoque
 
-##### Bloco 35: Programação Orientada a Objetos e Padrões de Projeto
-- [ ] 35.1 - Introdução à programação orientada a objetos
-- [ ] 35.2 - Herança, Composição e Interfaces
-- [ ] 35.3 - Padrões de projeto
-- [ ] 35.4 - Projeto - Relatórios de Estoque
+##### Bloco 35: Algoritmos e Estrutura de Dados
+- [ ] 35.1 - Complexidade de Algoritmos
+- [ ] 35.2 - Recursividade e Estratégias para solução de problemas
+- [ ] 35.3 - Algoritmos de ordenação e busca
+- [ ] 35.4 - Projeto - Algoritmos
 
-##### Bloco 36: Algoritmos e Estrutura de Dados
-- [ ] 36.1 - Complexidade de Algoritmos
-- [ ] 36.2 - Recursividade e Estratégias para solução de problemas
-- [ ] 36.3 - Algoritmos de ordenação e busca
-- [ ] 36.4 - Projeto - Algoritmos
+##### Bloco 36: Estrutura de Dados: Hash e Set
+- [ ] 36.1 - Arrays
+- [ ] 36.2 - Hashmap e Dict
+- [ ] 36.3 - Set
+- [ ] 36.4 - Projeto - Restaurant Orders
 
-##### Bloco 37: Estrutura de Dados: Hash e Set
-- [ ] 37.1 - Arrays
-- [ ] 37.2 - Hashmap e Dict
-- [ ] 37.3 - Set
-- [ ] 37.4 - Projeto - Restaurant Orders
-
-##### Bloco 38: Estrutura de Dados: Pilhas, Filas e Listas
-- [ ] 38.1 - Nó e Listas Encadeadas
-- [ ] 38.2 - Deque
-- [ ] 38.3 - Pilhas
-- [ ] 38.4 - Projeto - TING - Trybe Is Not Google
+##### Bloco 37: Estrutura de Dados: Pilhas, Filas e Listas
+- [ ] 37.1 - Nó e Listas Encadeadas
+- [ ] 37.2 - Deque
+- [ ] 37.3 - Pilhas
+- [ ] 37.4 - Projeto - TING - Trybe Is Not Google
 </details>
