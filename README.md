@@ -229,10 +229,10 @@ O curso da Trybe é dividido em 4 grandes blocos (Fundamentos do desenvolvimento
 - [X] 32.4 - Projeto - Job Insights
 
 ##### Bloco 33: Padrões de Projeto
-- [ ] 33.1 - P.O.O em Python
-- [ ] 33.2 - Iteradtor, Adapter, Strategy
-- [ ] 33.3 - Decorator, Observer, Factory
-- [ ] 33.4 - Projeto - Relatórios de Estoque
+- [X] 33.1 - P.O.O em Python
+- [X] 33.2 - Iteradtor, Adapter, Strategy
+- [X] 33.3 - Decorator, Observer, Factory
+- [X] 33.4 - Projeto - Relatório de Estoque
 
 ##### Bloco 35: Algoritmos e Estrutura de Dados
 - [ ] 35.1 - Complexidade de Algoritmos
