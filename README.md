@@ -234,21 +234,27 @@ O curso da Trybe é dividido em 4 grandes blocos (Fundamentos do desenvolvimento
 - [X] 33.3 - Decorator, Observer, Factory
 - [X] 33.4 - Projeto - Relatório de Estoque
 
-##### Bloco 35: Algoritmos e Estrutura de Dados
+##### Bloco 34: Raspagem de Dados
+- [X] 34.1 - Raspagem de Dados
+- [X] 34.2 - Outras Ferramentas de Raspagem de Dados
+- [X] 34.3 - Dia de Atividades - Crawlers + POO
+- [X] 34.4 - Projeto - Tech News
+
+##### Bloco 35: Algoritmos
 - [ ] 35.1 - Complexidade de Algoritmos
 - [ ] 35.2 - Recursividade e Estratégias para solução de problemas
 - [ ] 35.3 - Algoritmos de ordenação e busca
 - [ ] 35.4 - Projeto - Algoritmos
 
-##### Bloco 36: Estrutura de Dados: Hash e Set
-- [ ] 36.1 - Arrays
-- [ ] 36.2 - Hashmap e Dict
-- [ ] 36.3 - Set
-- [ ] 36.4 - Projeto - Restaurant Orders
+##### Bloco 36: Estrutura de Dados I: Arrays, Listas, Fila e Pilhas
+- [ ] 36.1 - Arquitetura de Computadores
+- [ ] 36.2 - Arrays
+- [ ] 36.3 - Nó e Listas Encadeadas
+- [ ] 36.4 - Pilhas e FIlas
+- [ ] 36.5 - Projeto - TING - Trybe Is Not Google
 
-##### Bloco 37: Estrutura de Dados: Pilhas, Filas e Listas
-- [ ] 37.1 - Nó e Listas Encadeadas
-- [ ] 37.2 - Deque
-- [ ] 37.3 - Pilhas
-- [ ] 37.4 - Projeto - TING - Trybe Is Not Google
+##### Bloco 37: Estrutura de Dados II: Hashmaps e Sets
+- [ ] 37.1 - Hashmap e Dict
+- [ ] 37.2 - Set
+- [ ] 37.3 - Projeto - Restaurant Orders
 </details>
