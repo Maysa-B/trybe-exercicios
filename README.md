@@ -241,7 +241,7 @@ O curso da Trybe é dividido em 4 grandes blocos (Fundamentos do desenvolvimento
 - [X] 34.4 - Projeto - Tech News
 
 ##### Bloco 35: Algoritmos
-- [ ] 35.1 - Complexidade de Algoritmos
+- [X] 35.1 - Complexidade de Algoritmos
 - [ ] 35.2 - Recursividade e Estratégias para solução de problemas
 - [ ] 35.3 - Algoritmos de ordenação e busca
 - [ ] 35.4 - Projeto - Algoritmos
